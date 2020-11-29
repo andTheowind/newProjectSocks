@@ -262,11 +262,23 @@ nav .active {
 
 .service-hr {
 	color: #f4f3f4;
-	font-size: 76px;
+	font-size: 54px !important;
 	font-weight: 700;
 	line-height: 93px;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+.service-hr:before, .service-hr:after {
+	vertical-align: -20% !important;
+}
+
+.service-hr:before {
+    right: .5em !important;
+}
+
+.service-hr:after {
+    left: .5em !important;
 }
 
 .service-item {
