@@ -242,6 +242,43 @@ nav .active {
 }
 
 
+.perfect-sevices {
+	background: url(../img/service-bg.jpg) center no-repeat;
+    background-size: cover;
+    padding: 80px 0;
+}
+
+.perfect-sevices h3 {
+	color: #a9946e;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+.perfect-sevices p {
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.service-hr {
+	color: #f4f3f4;
+	font-size: 76px;
+	font-weight: 700;
+	line-height: 93px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.service-item {
+	margin-top: 60px;
+}
+
+.service-icon {
+	margin-right: 20px;
+}
+
+
+
 
 
 
