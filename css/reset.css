@@ -1,0 +1,15 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
+header .nav-bg {
+	background: transparent;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: #fed136;
+}
+.our-team .card-text {
+	font-size: 14px;
+}
+article .soc-icons div {
+	margin: 0 5px 0 5px;
+}
