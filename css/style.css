@@ -72,6 +72,7 @@ nav .active {
 #header-phone {
 	color: #ffffff;
 	font-size: 28px;
+	display: none;
 }
 #header-phone a {
 	color: #ffffff;
@@ -342,4 +343,11 @@ nav .active {
 .social-side a {
     display: block;
     margin-top: 20px;
+}
+
+
+@media screen and (min-width: 992px) {
+	#header-phone {
+		display: block;
+	}
 }
