@@ -208,6 +208,9 @@ nav .active {
 .card .btn:hover {
 	background-color: #a9946e;
 }
+.dwn {
+	padding-top: 0;
+}
 .mens-socks .card, .womens-socks .card, .kids-socks .card{
 	border: none;
 }
@@ -349,5 +352,8 @@ nav .active {
 @media screen and (min-width: 992px) {
 	#header-phone {
 		display: block;
+	}
+	.dwn {
+		padding-top: 40px;
 	}
 }
